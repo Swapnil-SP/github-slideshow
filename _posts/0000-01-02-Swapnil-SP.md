@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"I have edited the fifth line"
+"Float like a butterfly,sting like a bee"- s
 Use the left arrow to go back!
